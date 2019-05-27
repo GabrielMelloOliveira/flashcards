@@ -19,7 +19,7 @@ And to finish execute:
 
 ## Tests
 
-* Platforms have been tested: **Android**
+* Tested platforms: **Android**
 
 ## Author
 
